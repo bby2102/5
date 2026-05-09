@@ -207,3 +207,74 @@ Phase 3 output: 6 companies passing all qualification filters
 | Freight Audit & Payment | 1 | Trax Group |
 | Delivery Experience / Returns | 1 | Ingrid |
 | Last Mile / Route Optimization | 1 | Route4Me |
+
+---
+
+## Image Batch 2 — Additional Qualified Companies (2026-05-09 Update)
+
+Maps processed: freight/logistics startup landscape, Supplify Supply Chain Tech Map 2.0, LogisticsIQ Next Gen Supply Chain Market Map 2020, Ridge Ventures Supply Chain Stack, CB Insights logistics tech landscape, Sapphire Ventures supply chain logistics landscape (Dec 2022), Supplify Agentic AI Supply Chain Tech Providers 2.0. IDC Market Glance: Software Supply Chain Security excluded — covers DevSecOps/cybersecurity, not physical SCM.
+
+### 3 Additional Qualified Companies
+
+| Company Name | Category | One-Sentence Description | Models / Data Moat | HQ | LinkedIn Headcount | Last Round | Last Round Date | Last Round Lead Investors |
+|---|---|---|---|---|---|---|---|---|
+| Pelico | Manufacturing/MES | AI-powered factory supply chain orchestration platform that connects multi-site ERP and MES data in real time to help global manufacturers anticipate production disruptions and minimize downtime. | Proprietary AI disruption-prediction models trained across multi-site manufacturing ERP/MES data streams; real-time factory floor event processing across production networks. | Paris, France | ~150 | Later Stage VC (Series C) | Jun 2025 | General Catalyst; Serena; 83North |
+| Guidewheel | Manufacturing/MES | Factory operations platform that uses plug-in current sensors and AI to monitor machine uptime, detect inefficiencies, and optimize production schedules for manufacturers globally without PLC integration. | Proprietary dataset of machine power signatures from thousands of factory lines enabling downtime prediction and OEE benchmarking; agentless plug-in deployment creates low-friction data collection moat across diverse manufacturing equipment. | San Francisco, CA, USA | ~104 | Later Stage VC (Series B) | Aug 2024 | Decarbonization Partners; BlackRock |
+| HappyRobot | Logistics/Freight Tech | Enterprise AI voice-agent platform that automates freight operations workflows — including carrier check calls, load confirmations, and dispatch — by integrating directly with TMS systems and load boards. | Freight-specific voice AI models trained on carrier/broker call patterns; real-time TMS integrations and automated workflow execution create switching costs; growing dataset of freight conversation outcomes improves model accuracy. | San Francisco, CA, USA | ~114 | Early Stage VC (Series B) | Sep 2025 | Base10 Partners |
+
+### Companies Eliminated in Batch 2
+
+**Already in GCC Notion (36 additional companies found — not in original 75-company list):**
+KlearNow, Wise Systems, MyCarrier, Turvo, Windward, Verusen, Emerge, FreightOS (Freightos), Zencargo, Raft, GoFreight, Magaya, EasyPost, Arkieva, Optilogic, SourceDay, ORO Labs, MaintainX, Tulip Interfaces, Sievo, Tacto, KetteQ, Crisp, Osapiens, Risk Ledger, Alloy.ai, Inspectorio, Nulogy, Shipium, Tealbook, Craft (Craft.co), Graphite Connect, Katana, Trademo, Platform Science, Beacon
+
+**Strategic conglomerate acquisition (Batch 2):**
+- Parade (acquired by Mudflap, Mar 2026)
+- Greenscreens.ai (acquired by Triumph Financial/TFIN, May 2025)
+- Anvyl (acquired by Sage Group, Oct 2024)
+- Fountain9 (acquired by Rappi, Sep 2024)
+- Regrello (acquired by Salesforce for $818M, Oct 2025)
+- Syrup Tech (acquired by Anaplan/Thoma Bravo, Sep 2025)
+- SupplyPike (acquired by SPS Commerce/SPSC, Jul 2024)
+- Sifted (acquired by Market Connect, Apr 2024)
+- Slync.io (distressed acquisition by Bluspark LLC, Mar 2024)
+
+**Headcount < 90 (Batch 2):**
+Nextmv (17), SmartHop (~20), Terminal49 (19), Paxafe (~25), Vizion (~72), BuyCo (69), Agistix (7–14), Log-hub (~50), Vekia (~30), Flieber (~14), Prediko (~18), Circulor (~54), Treefera (~45), Lokad (~45–68), BlueCargo (48), Nash (40), Surgere (69), Contingent (~20), 3rdWave (~22), Crstl (5–25), PDQ/PrettyDamnQuick (~30–50)
+
+**Headcount > 600 (Batch 2):**
+- ZIP (ZipHQ) (~700)
+
+**Defunct (Batch 2):**
+- Stemly (ceased operations Dec 2025)
+- Pandion (ceased operations Jan 2025)
+
+**Geography fail (Batch 2):**
+- Quincus (Singapore HQ)
+
+**Borderline — flagged for team discretion:**
+- Optimal Dynamics (~82 employees Aug 2025, $40M Series C Apr 2025 at $230M valuation; AI dispatch optimization for trucking using stochastic DP models; below 90 floor but actively hiring post-Series C — recommend re-checking LinkedIn headcount)
+- Fleetio (453 employees, $1.5B valuation after $454M Series D Mar 2025; fleet management software; passes all hard filters but scope is adjacent rather than core SCM)
+
+---
+
+## Updated Totals (Cumulative — All Batches)
+
+| Metric | Count |
+|---|---|
+| Market maps processed (cumulative) | 49 (42 web-sourced + 7 user-supplied) |
+| Additional companies examined in Batch 2 | ~220 |
+| Already tracked in GCC Notion (Batch 2 additional finds) | 36 |
+| Net-new qualifiers (Batch 2) | 3 |
+| **Total qualified net-new (cumulative)** | **9** |
+
+## Updated Sub-category Breakdown (All 9 Qualified)
+
+| Sub-category | Count | Companies |
+|---|---|---|
+| Supply Chain Planning | 1 | Sunstice |
+| OMS | 1 | OneStock |
+| Procurement/Sourcing | 1 | SynerTrade |
+| Logistics/Freight Tech | 2 | Trax Group; HappyRobot |
+| Returns/Reverse Logistics | 1 | Ingrid |
+| Last Mile | 1 | Route4Me |
+| Manufacturing/MES | 2 | Pelico; Guidewheel |
